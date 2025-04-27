@@ -1,0 +1,3 @@
+com\githubsearch\service\GithubSearchService.class
+com\githubsearch\controller\SearchController.class
+com\githubsearch\GithubSearchApplication.class
